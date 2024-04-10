@@ -1,0 +1,1 @@
+# KNN-Naive-Bayes-LoR-SVM-NN-for-Classsification
